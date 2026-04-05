@@ -1,0 +1,10 @@
+numpy>=1.26.0
+scipy>=1.11.0
+librosa>=0.10.2
+soundfile>=0.12.1
+torch>=2.2.0
+transformers>=4.40.0
+sentencepiece>=0.2.0
+laion-clap>=1.1.4
+gradio>=4.0.0
+pydantic>=2.7.0

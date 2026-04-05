@@ -1,0 +1,56 @@
+.venv/
+venv/
+env/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Jupyter and notebooks
+.ipynb_checkpoints/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Project runtime artifacts
+.gradio/
+outputs/
+logs/
+.tmp*
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# ML models (IMPORTANT)
+*.pt
+*.bin
+*.safetensors
+*.ckpt
+
+# cache
+.cache/
+
+# mac
+.DS_Store
