@@ -77,4 +77,4 @@ Based on open-source work and pretrained models.
 
 ## 📌 Author
 
-Lakshya and Aditya
+Lakshya
