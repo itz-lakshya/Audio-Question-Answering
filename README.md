@@ -1,4 +1,4 @@
-# 🎧 Audio QA App (ML Project)
+# 🎧 Audio QA App
 
 This project is an **Audio Question Answering system** built using deep learning models.
 It allows users to input audio and get meaningful outputs using pretrained models.
